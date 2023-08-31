@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="corrupted_hankus.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hankus idle dance0000" x="0" y="0" width="441" height="558" frameX="-30" frameY="-68" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0001" x="441" y="0" width="441" height="558" frameX="-30" frameY="-68" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0002" x="882" y="0" width="443" height="568" frameX="-39" frameY="-55" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0003" x="882" y="0" width="443" height="568" frameX="-39" frameY="-55" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0004" x="1325" y="0" width="439" height="580" frameX="-37" frameY="-43" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0005" x="1764" y="0" width="439" height="580" frameX="-37" frameY="-43" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0006" x="2203" y="0" width="475" height="618" frameX="-2" frameY="-5" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0007" x="2203" y="0" width="475" height="618" frameX="-2" frameY="-5" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0008" x="2678" y="0" width="477" height="624" frameX="0" frameY="0" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0009" x="2678" y="0" width="477" height="624" frameX="0" frameY="0" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0010" x="3155" y="0" width="449" height="549" frameX="-28" frameY="-74" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0011" x="3604" y="0" width="439" height="549" frameX="-38" frameY="-74" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0012" x="0" y="624" width="439" height="555" frameX="-38" frameY="-68" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0013" x="439" y="624" width="438" height="555" frameX="-39" frameY="-68" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus idle dance0014" x="877" y="624" width="438" height="568" frameX="-39" frameY="-55" frameWidth="482" frameHeight="626"/>
+	<SubTexture name="hankus sing down0000" x="1315" y="624" width="470" height="600" frameX="0" frameY="-56" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0001" x="1785" y="624" width="470" height="600" frameX="0" frameY="-56" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0002" x="2255" y="624" width="470" height="600" frameX="-2" frameY="-55" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0003" x="2255" y="624" width="470" height="600" frameX="-2" frameY="-55" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0004" x="2725" y="624" width="471" height="615" frameX="0" frameY="-43" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0005" x="2725" y="624" width="471" height="615" frameX="0" frameY="-43" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0006" x="3196" y="624" width="471" height="653" frameX="0" frameY="-5" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0007" x="3196" y="624" width="471" height="653" frameX="0" frameY="-5" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0008" x="0" y="1277" width="471" height="658" frameX="0" frameY="0" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0009" x="0" y="1277" width="471" height="658" frameX="0" frameY="0" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0010" x="471" y="1277" width="471" height="600" frameX="0" frameY="-58" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0011" x="471" y="1277" width="471" height="600" frameX="0" frameY="-58" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0012" x="942" y="1277" width="471" height="600" frameX="0" frameY="-58" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0013" x="942" y="1277" width="471" height="600" frameX="0" frameY="-58" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing down0014" x="1413" y="1277" width="471" height="603" frameX="0" frameY="-55" frameWidth="472" frameHeight="658"/>
+	<SubTexture name="hankus sing left0000" x="1884" y="1277" width="548" height="585" frameX="-24" frameY="-64" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing left0001" x="1884" y="1277" width="548" height="585" frameX="-24" frameY="-64" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing left0002" x="2432" y="1277" width="532" height="593" frameX="0" frameY="-55" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing left0003" x="2432" y="1277" width="532" height="593" frameX="0" frameY="-55" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing left0004" x="2964" y="1277" width="518" height="606" frameX="-10" frameY="-43" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing left0005" x="2964" y="1277" width="518" height="606" frameX="-10" frameY="-43" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing left0006" x="3482" y="1277" width="520" height="643" frameX="-17" frameY="-5" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing left0007" x="3482" y="1277" width="520" height="643" frameX="-17" frameY="-5" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing left0008" x="0" y="1935" width="518" height="648" frameX="-17" frameY="0" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing left0009" x="0" y="1935" width="518" height="648" frameX="-17" frameY="0" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing left0010" x="518" y="1935" width="518" height="584" frameX="-17" frameY="-64" frameWidth="572" frameHeight="649"/>
+	<SubTexture name="hankus sing right0000" x="1036" y="1935" width="572" height="598" frameX="-20" frameY="-58" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0001" x="1608" y="1935" width="572" height="598" frameX="-20" frameY="-58" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0002" x="2180" y="1935" width="572" height="601" frameX="0" frameY="-55" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0003" x="2180" y="1935" width="572" height="601" frameX="0" frameY="-55" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0004" x="2752" y="1935" width="572" height="613" frameX="0" frameY="-43" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0005" x="2752" y="1935" width="572" height="613" frameX="0" frameY="-43" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0006" x="3324" y="1935" width="572" height="651" frameX="0" frameY="-5" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0007" x="3324" y="1935" width="572" height="651" frameX="0" frameY="-5" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0008" x="0" y="2586" width="572" height="656" frameX="0" frameY="0" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0009" x="0" y="2586" width="572" height="656" frameX="0" frameY="0" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0010" x="572" y="2586" width="572" height="598" frameX="0" frameY="-58" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing right0011" x="572" y="2586" width="572" height="598" frameX="0" frameY="-58" frameWidth="592" frameHeight="656"/>
+	<SubTexture name="hankus sing up0000" x="1144" y="2586" width="510" height="639" frameX="0" frameY="-34" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0001" x="1654" y="2586" width="510" height="639" frameX="0" frameY="-34" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0002" x="2164" y="2586" width="510" height="633" frameX="0" frameY="-55" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0003" x="2164" y="2586" width="510" height="633" frameX="0" frameY="-55" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0004" x="2674" y="2586" width="510" height="648" frameX="0" frameY="-43" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0005" x="2674" y="2586" width="510" height="648" frameX="0" frameY="-43" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0006" x="3184" y="2586" width="510" height="686" frameX="0" frameY="-5" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0007" x="3184" y="2586" width="510" height="686" frameX="0" frameY="-5" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0008" x="0" y="3272" width="510" height="691"/>
+	<SubTexture name="hankus sing up0009" x="0" y="3272" width="510" height="691"/>
+	<SubTexture name="hankus sing up0010" x="510" y="3272" width="510" height="633" frameX="0" frameY="-58" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0011" x="510" y="3272" width="510" height="633" frameX="0" frameY="-58" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0012" x="1020" y="3272" width="510" height="633" frameX="0" frameY="-58" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0013" x="1020" y="3272" width="510" height="633" frameX="0" frameY="-58" frameWidth="510" frameHeight="691"/>
+	<SubTexture name="hankus sing up0014" x="1530" y="3272" width="510" height="636" frameX="0" frameY="-55" frameWidth="510" frameHeight="691"/>
+</TextureAtlas>

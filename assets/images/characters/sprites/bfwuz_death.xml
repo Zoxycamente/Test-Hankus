@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfwuz_death.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B death0000" x="0" y="0" width="364" height="521" frameX="0" frameY="0" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0001" x="364" y="0" width="356" height="521" frameX="-8" frameY="0" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0002" x="364" y="0" width="356" height="521" frameX="-8" frameY="0" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0003" x="720" y="0" width="377" height="502" frameX="-19" frameY="-19" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0004" x="720" y="0" width="377" height="502" frameX="-19" frameY="-19" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0005" x="1097" y="0" width="399" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0006" x="1097" y="0" width="399" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0007" x="1496" y="0" width="391" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0008" x="1496" y="0" width="391" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0009" x="1887" y="0" width="388" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0010" x="1887" y="0" width="388" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0011" x="2275" y="0" width="408" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0012" x="2275" y="0" width="408" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0013" x="2683" y="0" width="412" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0014" x="2683" y="0" width="412" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0015" x="3095" y="0" width="432" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0016" x="3095" y="0" width="432" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0017" x="3095" y="0" width="432" height="480" frameX="-20" frameY="-41" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0018" x="3527" y="0" width="434" height="470" frameX="-18" frameY="-51" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0019" x="3527" y="0" width="434" height="470" frameX="-18" frameY="-51" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0020" x="0" y="521" width="425" height="455" frameX="-27" frameY="-66" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0021" x="0" y="521" width="425" height="455" frameX="-27" frameY="-66" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0022" x="425" y="521" width="414" height="439" frameX="-38" frameY="-82" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0023" x="425" y="521" width="414" height="439" frameX="-38" frameY="-82" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0024" x="839" y="521" width="431" height="437" frameX="-39" frameY="-99" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0025" x="839" y="521" width="431" height="437" frameX="-39" frameY="-99" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0026" x="1270" y="521" width="467" height="434" frameX="-54" frameY="-122" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0027" x="1270" y="521" width="467" height="434" frameX="-54" frameY="-122" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0028" x="2112" y="976" width="528" height="367" frameX="-66" frameY="-211" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B death0029" x="2112" y="976" width="528" height="367" frameX="-66" frameY="-211" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B death0030" x="2112" y="976" width="528" height="367" frameX="-66" frameY="-211" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B death0031" x="1737" y="521" width="528" height="367" frameX="-66" frameY="-211" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0032" x="1737" y="521" width="528" height="367" frameX="-66" frameY="-211" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0033" x="2265" y="521" width="528" height="367" frameX="-66" frameY="-211" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0034" x="2265" y="521" width="528" height="367" frameX="-66" frameY="-211" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0035" x="2793" y="521" width="528" height="367" frameX="-66" frameY="-211" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0036" x="2793" y="521" width="528" height="367" frameX="-66" frameY="-211" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0037" x="3321" y="521" width="528" height="367" frameX="-66" frameY="-211" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B death0038" x="3321" y="521" width="528" height="367" frameX="-66" frameY="-211" frameWidth="594" frameHeight="578"/>
+	<SubTexture name="B loop death0000" x="0" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0001" x="0" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0002" x="528" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0003" x="528" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0004" x="1056" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0005" x="1056" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0006" x="1584" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0007" x="1584" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0008" x="1584" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0009" x="1584" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0010" x="1584" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0011" x="0" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0012" x="0" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0013" x="528" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0014" x="528" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0015" x="1056" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0016" x="1056" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0017" x="1584" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0018" x="1584" y="976" width="528" height="367"/>
+	<SubTexture name="B loop death0019" x="1584" y="976" width="528" height="367"/>
+	<SubTexture name="B revive0000" x="2112" y="976" width="528" height="367" frameX="-22" frameY="-153" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0001" x="2112" y="976" width="528" height="367" frameX="-22" frameY="-153" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0002" x="2640" y="976" width="526" height="361" frameX="-27" frameY="-152" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0003" x="2640" y="976" width="526" height="361" frameX="-27" frameY="-152" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0004" x="3166" y="976" width="523" height="352" frameX="-32" frameY="-152" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0005" x="3166" y="976" width="523" height="352" frameX="-32" frameY="-152" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0006" x="0" y="1343" width="530" height="370" frameX="-23" frameY="-116" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0007" x="0" y="1343" width="530" height="370" frameX="-23" frameY="-116" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0008" x="530" y="1343" width="529" height="393" frameX="0" frameY="-89" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0009" x="530" y="1343" width="529" height="393" frameX="0" frameY="-89" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0010" x="1059" y="1343" width="520" height="410" frameX="-10" frameY="-44" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0011" x="1059" y="1343" width="520" height="410" frameX="-10" frameY="-44" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0012" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0013" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0014" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0015" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0016" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0017" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0018" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0019" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0020" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0021" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0022" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0023" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0024" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0025" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0026" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0027" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0028" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0029" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0030" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0031" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0032" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0033" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0034" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0035" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0036" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0037" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+	<SubTexture name="B revive0038" x="1579" y="1343" width="407" height="454" frameX="-1" frameY="0" frameWidth="555" frameHeight="520"/>
+</TextureAtlas>
